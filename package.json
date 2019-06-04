@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/QQrtZZ/28-random/issues"
   },
-  "homepage": "https://github.com/QQrtZZ/28-random#readme"
+  "homepage": "https://github.com/QQrtZZ/28-random#readme",
+  "dependencies": {
+    "electron": "^5.0.2"
+  }
 }
