@@ -1,0 +1,19 @@
+{
+  "name": "28-random",
+  "version": "1.0.0",
+  "description": "electron app I made so we can randomize group for some reason",
+  "main": "index.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QQrtZZ/28-random.git"
+  },
+  "author": "QrtZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QQrtZZ/28-random/issues"
+  },
+  "homepage": "https://github.com/QQrtZZ/28-random#readme"
+}
