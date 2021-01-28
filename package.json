@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/QQrtZZ/28-random#readme",
   "dependencies": {
-    "electron": "^7.2.4"
+    "electron": "^9.4.0"
   }
 }
